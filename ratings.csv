@@ -1,4 +1,4 @@
-userId,movieId,rating,timestamp
+userid,movieid,rating,timestamp
 1,31,2.5,2009-12-14 02:52:24
 7,31,3.0,1996-12-29 14:12:30
 31,31,4.0,2010-05-11 01:39:13
