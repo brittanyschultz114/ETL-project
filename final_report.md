@@ -6,7 +6,7 @@
     * Max Eiteljorg
     * Keri Hennenfent
     * Brittany Schultz
-    * Caleb Sheery
+    * Caleb Sherry
 
 * **E**xtract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
 
